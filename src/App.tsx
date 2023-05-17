@@ -1,6 +1,7 @@
 import * as React from 'react';
-import './tailwind.css';
 import './style.css';
+import './tailwind.css';
+import 'tailwindcss/tailwind.css';
 
 export default function App() {
   return (
